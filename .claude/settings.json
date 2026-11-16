@@ -1,0 +1,18 @@
+{
+  "extraKnownMarketplaces": {
+    "ui-ux-pro-max-skill": {
+      "source": { "source": "github", "repo": "nextlevelbuilder/ui-ux-pro-max-skill" }
+    },
+    "hyperframes": {
+      "source": { "source": "github", "repo": "heygen-com/hyperframes" }
+    },
+    "superpowers-dev": {
+      "source": { "source": "github", "repo": "obra/superpowers" }
+    }
+  },
+  "enabledPlugins": {
+    "ui-ux-pro-max@ui-ux-pro-max-skill": true,
+    "hyperframes@hyperframes": true,
+    "superpowers@superpowers-dev": true
+  }
+}
